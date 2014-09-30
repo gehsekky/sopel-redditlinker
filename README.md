@@ -22,5 +22,5 @@ Place the following in the bottom of your willie config file:
     [redditlinker]
     username = redditbotname
     password = redditbotpass
-    subreddit = redditlinker
+    subreddit = nameofsubredditpostingto
     message = a script to post links from irc to a subreddit
