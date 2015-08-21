@@ -1,9 +1,9 @@
-willie-redditlinker
+sopel-redditlinker
 ===================
 
 a script to submit links posted in irc to a specified subreddit.
 
-####requirements
+### requirements
 
 This project requires the following:  
 
@@ -15,9 +15,9 @@ you can install them via pip by doing something like:
     sudo pip install praw
     sudo pip install BeautifulSoup
 
-####getting started
+### getting started
 
-Place the following in the bottom of your willie config file:
+Place the following in the bottom of your sopel config file:
 
     [redditlinker]
     username = redditbotname
